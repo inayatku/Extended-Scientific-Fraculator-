@@ -1,0 +1,49 @@
+Title: Fraculator - Entering and Modifying Fractions
+
+Introduction:
+The Fraculator allows users to input and modify fractions in a multi-line display easily. In this document, we will discuss the procedure to enter new fractions and modify existing fractions.
+
+Entering Fractions:
+
+Always Start typing from middle (second) line of input screen. 
+
+Method 1:
+To enter a fraction in this calculator, you can use the division symbol (/) between the numerator and the denominator. Here's how to input a fraction:
+
+1. Enter the numerator (the top number of the fraction) using the number buttons or by typing it directly.
+2. Press the division button ("/") or type it using the keyboard.
+3. Enter the denominator (the bottom number of the fraction) using the number buttons or by typing it directly.
+
+For example, to enter the fraction 3/4:
+
+1. Type '3' or press the number button '3'.
+2. Press the division button ("/") or type '/'.
+3. Type '4' or press the number button '4'.
+
+The calculator will now display the fraction as "3/4" and you can perform calculations with it.
+
+If you want to perform operations with fractions or display the result as a fraction, the calculator will automatically simplify the result when possible. For example, if you multiply 3/4 by 4/5, the calculator will display the result as "12/20" and then simplify it to "3/5".
+
+Method 2:
+
+1. Navigate to the location in the multi-line display where you want to enter the fraction.
+2. Press the 'Tab' key to enter the fraction mode.
+3. Type the numerator of the fraction.
+4. Press the 'Tab' key again to move to the denominator.
+5. Type the denominator of the fraction.
+6. Press the 'Tab' key one more time to complete the fraction input. The fraction is now entered, and you can continue to input other expressions or perform calculations.
+
+Modifying Fractions:
+1. Use the navigation buttons or arrow keys to reach the location of the fraction you want to modify. Move the cursor to the numerator or the denominator as required.
+2. Once the cursor is at the desired location, use the backspace key to delete any existing digits.
+3. Type in the new values for the numerator or the denominator.
+4. If you need to modify both the numerator and the denominator, follow the same process as described in steps 1 to 3 to move the cursor and update the values.
+
+LIMITATIONS and CAUTIONS: 
+1. In multi-line display of fraction, never use tab key during or after modification of a fraction. 
+2. Do not use navigation arrow keys during entry of a fraction.
+
+After entering or modifying the fractions, you can perform various calculations, and the calculator will handle them accordingly with the updated fraction values.
+
+Conclusion:
+This Fraculator provides an efficient way to enter and modify fractions in a multi-line display, allowing users to perform calculations with ease. Make sure to follow the steps outlined in this document to enter new fractions and modify existing ones as needed.
